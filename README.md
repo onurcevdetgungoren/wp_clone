@@ -1,6 +1,6 @@
 # wp_clone
 
-A new Flutter project.
+Sunum amaçlı yaptığım, temel bir Wp Clone projesi.
 
 ## Getting Started
 
